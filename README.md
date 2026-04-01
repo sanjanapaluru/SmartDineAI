@@ -1,5 +1,4 @@
 # SmartDineAI
-# SmartDineAI
 
 SmartDineAI is a Python-based intelligent dining assistant that uses an agentic workflow to provide personalized restaurant recommendations. The project is structured as a modular package, leveraging modern dependency management for reproducible environments.
 
